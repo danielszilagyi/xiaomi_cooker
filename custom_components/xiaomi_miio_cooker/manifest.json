@@ -2,16 +2,16 @@
   "domain": "xiaomi_miio_cooker",
   "name": "Xiaomi Mi Electric Rice Cooker",
   "codeowners": [
-    "@syssi"
+    "@danielszilagyi"
   ],
   "config_flow": false,
   "dependencies": [],
-  "documentation": "https://github.com/syssi/xiaomi_cooker",
+  "documentation": "https://github.com/danielszilagyi/xiaomi_cooker",
   "iot_class": "local_polling",
-  "issue_tracker": "https://github.com/syssi/xiaomi_cooker/issues",
+  "issue_tracker": "https://github.com/syssi/danielszilagyi/issues",
   "requirements": [
     "construct==2.10.56",
     "python-miio>=0.5.12"
   ],
-  "version": "2023.6.0.0"
+  "version": "2023.6.0.1"
 }
